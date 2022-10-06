@@ -1,0 +1,13 @@
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.exe
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.deps.json
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.runtimeconfig.json
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.runtimeconfig.dev.json
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.dll
+C:\Users\Mr，，，，董\source\repos\数据结构\bin\Debug\netcoreapp3.1\数据结构.pdb
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.csprojAssemblyReference.cache
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.AssemblyInfoInputs.cache
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.AssemblyInfo.cs
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.csproj.CoreCompileInputs.cache
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.dll
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.pdb
+C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.genruntimeconfig.cache
