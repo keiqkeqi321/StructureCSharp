@@ -11,3 +11,16 @@ C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数
 C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.dll
 C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.pdb
 C:\Users\Mr，，，，董\source\repos\数据结构\obj\Debug\netcoreapp3.1\数据结构.genruntimeconfig.cache
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.exe
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.deps.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.runtimeconfig.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.runtimeconfig.dev.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.dll
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\数据结构.pdb
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.csprojAssemblyReference.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.AssemblyInfoInputs.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.AssemblyInfo.cs
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.csproj.CoreCompileInputs.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.dll
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.pdb
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\数据结构.genruntimeconfig.cache

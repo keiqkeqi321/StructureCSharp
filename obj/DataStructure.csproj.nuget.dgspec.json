@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitRepository\\Structure\\数据结构.csproj": {}
+    "E:\\GitRepository\\Structure\\DataStructure.csproj": {}
   },
   "projects": {
-    "E:\\GitRepository\\Structure\\数据结构.csproj": {
+    "E:\\GitRepository\\Structure\\DataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepository\\Structure\\数据结构.csproj",
-        "projectName": "数据结构",
-        "projectPath": "E:\\GitRepository\\Structure\\数据结构.csproj",
+        "projectUniqueName": "E:\\GitRepository\\Structure\\DataStructure.csproj",
+        "projectName": "DataStructure",
+        "projectPath": "E:\\GitRepository\\Structure\\DataStructure.csproj",
         "packagesPath": "C:\\Users\\Mr，，，，董\\.nuget\\packages\\",
         "outputPath": "E:\\GitRepository\\Structure\\obj\\",
         "projectStyle": "PackageReference",

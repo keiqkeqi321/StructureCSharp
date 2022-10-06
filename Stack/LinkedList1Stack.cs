@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 数据结构
+
+namespace DataStructure
 {
     class LinkedList1Stack<E>:IStack<E>
     {

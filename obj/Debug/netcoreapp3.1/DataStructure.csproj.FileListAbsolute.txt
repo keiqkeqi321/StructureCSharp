@@ -1,0 +1,13 @@
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.exe
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.deps.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.dev.json
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.dll
+E:\GitRepository\Structure\bin\Debug\netcoreapp3.1\DataStructure.pdb
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.csprojAssemblyReference.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfoInputs.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfo.cs
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.csproj.CoreCompileInputs.cache
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.dll
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.pdb
+E:\GitRepository\Structure\obj\Debug\netcoreapp3.1\DataStructure.genruntimeconfig.cache

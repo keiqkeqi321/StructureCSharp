@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 数据结构
+namespace DataStructure
 {
     interface IStack<E>
     {

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr，，，，董\\source\\repos\\数据结构\\数据结构.csproj",
-      "projectName": "数据结构",
-      "projectPath": "C:\\Users\\Mr，，，，董\\source\\repos\\数据结构\\数据结构.csproj",
+      "projectUniqueName": "E:\\GitRepository\\Structure\\DataStructure.csproj",
+      "projectName": "DataStructure",
+      "projectPath": "E:\\GitRepository\\Structure\\DataStructure.csproj",
       "packagesPath": "C:\\Users\\Mr，，，，董\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr，，，，董\\source\\repos\\数据结构\\obj\\",
+      "outputPath": "E:\\GitRepository\\Structure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

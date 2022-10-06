@@ -3,7 +3,7 @@ using System.Buffers;
 using System.Collections.Generic;
 using System.Text;
 
-namespace 数据结构
+namespace DataStructure
 {
     class Array1<E>
     {
@@ -157,7 +157,7 @@ namespace 数据结构
 
             return del;
         }
-        public E RemoveFrst()
+        public E RemoveFirst()
         {
             return RemoveAt(0);
         }
