@@ -1,6 +1,10 @@
 ﻿
 namespace DataStructure
 {
+    /// <summary>
+    /// 动态数组实现的栈
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Array1Stack<E> : IStack<E>
     {
         Array1<E> arr;

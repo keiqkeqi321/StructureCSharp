@@ -5,6 +5,10 @@ using System.Text;
 
 namespace DataStructure
 {
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Array1<E>
     {
 
@@ -142,7 +146,7 @@ namespace DataStructure
                 throw new ArgumentException("数组索引越界");
             }
             E del = data[index];
-            for (int i = index + 1; i < N - 1; i++)
+            for (int i = index + 1; i <= N - 1; i++)
             {
                 data[i - 1] = data[i];
             }

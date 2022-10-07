@@ -4,6 +4,10 @@ using System.Text;
 
 namespace DataStructure
 {
+    /// <summary>
+    /// 普通动态数组实现的简单队列
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Array1Queue<E> : IQueue<E>
     {
         private Array1<E> array;

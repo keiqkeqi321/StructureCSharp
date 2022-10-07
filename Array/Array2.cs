@@ -4,6 +4,10 @@ using System.Text;
 
 namespace DataStructure
 {
+    /// <summary>
+    ///循环数组 记录头尾索引的动态数组
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Array2<E>
     {
         private E[]data;

@@ -1,6 +1,10 @@
 ﻿
 namespace DataStructure
 {
+    /// <summary>
+    /// 只有 头指针的链表实现的无序集合
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Linked1ListSet<E> : ISet<E>
     {
         LinkedList1<E> link;

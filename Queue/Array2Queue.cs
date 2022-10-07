@@ -4,6 +4,10 @@ using System.Text;
 
 namespace DataStructure
 {
+    /// <summary>
+    /// 循环数组为底层的  循环队列
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class Array2Queue<E> : IQueue<E>
     {
         private Array2<E> array;

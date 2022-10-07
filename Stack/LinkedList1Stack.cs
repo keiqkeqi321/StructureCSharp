@@ -5,6 +5,10 @@ using System.Text;
 
 namespace DataStructure
 {
+    /// <summary>
+    /// 头指针链表实现的栈
+    /// </summary>
+    /// <typeparam name="E"></typeparam>
     class LinkedList1Stack<E>:IStack<E>
     {
         LinkedList1<E> list;

@@ -4,6 +4,10 @@ using System.Text;
 
 namespace DataStructure
 {
+   /// <summary>
+   /// 链表
+   /// </summary>
+   /// <typeparam name="E"></typeparam>
     class LinkedList1<E>
     {
         class Node
